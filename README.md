@@ -33,8 +33,11 @@ Build and host a REST API (`POST` method) that:
 ## 📂 API Endpoint
 - **Method:** `POST`  
 - **Route:** `/bfhl`  
-- **Status Code:** `200 OK` (for successful requests)  
-
+- **Status Code:** `200 OK` (for successful requests)
+  
+---
+## Deployed Site:
+https://bajaj-finserv-project-1-a0wj.onrender.com/bfhl
 ---
 
 ## 📥 Request Format
@@ -43,7 +46,7 @@ Build and host a REST API (`POST` method) that:
   "data": ["a", "1", "334", "4", "R", "$"]
 }
 
+ 
+---
 
 
-Deployed site:
-https://bajaj-finserv-project-1-a0wj.onrender.com/bfhl
